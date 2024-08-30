@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RagguRavi
 - 👀 I’m interested in learning new Technologies
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Python
 - 📫 How to reach me email me on ravikumartholiya@gmail.com
 
 <!---
